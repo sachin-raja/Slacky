@@ -3,7 +3,7 @@ Inspired by Slack that connects teams across the world.
 
 Built Using:
 
-React JS
+React JS \n
 Google Authentication using Firebase
 React Redux (Context API)
 Material UI (for the front end)
