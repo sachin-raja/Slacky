@@ -10,4 +10,4 @@ Material UI (for the front end) \
 CSS Variables \
 FlexBox \
 Going live with Firebase \
-Firebase Database \
+Firebase Database
