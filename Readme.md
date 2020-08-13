@@ -6,6 +6,7 @@ Built Using:
 React JS \
 Google Authentication using Firebase \
 React Redux (Context API) \
+React Router \
 Material UI (for the front end) \
 CSS Variables \
 FlexBox \
