@@ -1,0 +1,4 @@
+.sidebar{
+    background-color: var(--slack-color);
+    border-top: 1px solid #49374b;
+}
