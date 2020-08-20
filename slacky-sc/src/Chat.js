@@ -29,9 +29,6 @@ function Chat() {
         );
         
     }, [roomId])
-    console.log(roomId)
-
-    console.log(roomMessages);
     return (
         <div className="chat">
             <div className="chat_header">
