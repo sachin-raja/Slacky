@@ -18,7 +18,7 @@ import { useStateValue } from './StateProvider'
 
 function Sidebar() {
     const [channels, setChannels] = useState([]);
-    const [{ user }] = useStateValue();
+    const [{ user }, dispatch] = useStateValue();
 
     useEffect(() => {
         db.collection('rooms').onSnapshot(snapshot => (
