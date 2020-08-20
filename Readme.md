@@ -12,3 +12,6 @@ CSS Variables \
 FlexBox \
 Going live with Firebase \
 Firebase Database
+
+
+Authentication with google
