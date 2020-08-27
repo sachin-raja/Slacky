@@ -14,4 +14,4 @@ Going live with Firebase \
 Firebase Database
 
 
-Authentication with google
+Authentication with google 
